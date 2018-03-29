@@ -4,10 +4,10 @@ Download the Xerces2 Java 2.11.0 (XML Schema 1.1) (Beta) binaries from Xerces we
 
 And install following jars in to maven locally
 
-cupv10k-runtime.jar
-org.eclipse.wst.xml.xpath2.processor_1.1.0.jar
-xercesImpl.jar
-xml-apis.jar
+1. cupv10k-runtime.jar
+2. org.eclipse.wst.xml.xpath2.processor_1.1.0.jar
+3. xercesImpl.jar
+4. xml-apis.jar
 
 Using following command
 
